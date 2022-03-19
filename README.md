@@ -1,25 +1,3 @@
-<div align="center">
-
-<kbd>
-<img style="border-radius:50%" height="150px" src="https://raw.githubusercontent.com/FogNetwork/Tsunami/main/public/img/logo.svg">
-</kbd>
-
-<h1>Tsunami</h1>
-
-<h3>An official Fog Network proxy site, made to access the blocked web</h3>
-
-<p>Surf without web filters or restrictions. Made with style, Tsunami is a rather fancy service dedicated to protecting your freedom from censorship.
-Read the documentation below to find out more</p>
-
-<p>Want to improve Tsunami? <a href="https://github.com/FogNetwork/Tsunami/compare">Create a pull request</a></p>
-</div>
-
-<p align="center">
-<a href="https://heroku.com/deploy?template=https://github.com/FogNetwork/Tsunami"><img height="30px" src="https://raw.githubusercontent.com/FogNetwork/Tsunami/main/deploy/heroku2.svg"><img></a>
-<a href="https://repl.it/github/FogNetwork/Tsunami"><img height="30px" src="https://raw.githubusercontent.com/FogNetwork/Tsunami/main/deploy/replit2.svg"><img></a>
-<a href="https://glitch.com/edit/#!/import/github/FogNetwork/Tsunami"><img height="30px" src="https://raw.githubusercontent.com/FogNetwork/Tsunami/main/deploy/glitch2.svg"><img></a>
-</p>
-
 ## Documentation
 
 - [Overview](#overview)
@@ -73,30 +51,21 @@ Read the documentation below to find out more</p>
 - `/6` Documentation
 - `/7` Credits
 - `/8` Support and Contact
-- `/9` Youtube
 - `/404` 404 Error
 
 ## Setup
 
-### Locally
+**Please Note: Aero needs to be on a subdomain, see [proxies](#proxies) for more info**
 
-```sh
-git clone https://github.com/FogNetwork/Tsunami
 
-cd Tsunami
-
-npm install
-
-npm start
-```
-
-### Deploy
-
-Click one of the buttons above and follow the steps
 
 ### Proxies
 
+Some of the proxies on Tsunami are hosted on subdomains, deploy the correct proxy for Tsunami to work
+
 Palladium and Corrosion are hosted locally, so you don't need a subdomain
+
+[a.example.com (Aero)](https://github.com/titaniumnetwork-dev/aero)
 
 [Locally (Palladium)](https://github.com/FogNetwork/Palladium)
 
@@ -130,10 +99,13 @@ var palladiumproxy = window.location.protocol + "//" + window.location.hostname 
 
 var corrosionproxy = window.location.protocol + "//" + window.location.hostname + "/corrosion/gateway?url="
 
+var aeroproxy = window.location.protocol + "//" + "a." + window.location.hostname + "/http/"
 ```
 `palladiumproxy` Location for Palladium proxy
 
 `corrosionproxy` Location for Corrosion proxy
+
+`aeroproxy` Location for Aero proxy
 
 Custom Proxy Example:
 
@@ -145,23 +117,19 @@ var palladiumproxy = "https://example.com/palladium/"
 
 ### FAQ
 
-**How can I get new domains?**
-
-Join our [discord](https://discord.gg/yk33HZSZkU) for more Tsunami links
 
 **Captcha not working/issues**
 
-Captcha is only supported on Corrosion, though the support is limited
+Captcha is only supported on Womginx, though the support is limited
 
 **Why is Discord not working properly?**
 
-Try using the QR code. Refreshing the page might help
+Try using Palladium or Corrosion. Refreshing the page might help
 
-### Contact
 
-Nebelung - [Nebelung#1335](https://discord.com/users/887118260963782686)
 
 ## More
+
 
 ### Proxy Sources
 
@@ -171,7 +139,7 @@ Nebelung - [Nebelung#1335](https://discord.com/users/887118260963782686)
 
 [Modified Corrosion](https://github.com/BinBashBanana/Corrosion-Heroku)
 
-[Aero](https://github.com/titaniumnetwork-dev/aero) (Not Used)
+[Aero](https://github.com/titaniumnetwork-dev/aero)
 
 [Womginx](https://github.com/binary-person/womginx) (Not Used)
 
@@ -189,7 +157,7 @@ Nebelung - [Nebelung#1335](https://discord.com/users/887118260963782686)
 
 ### Credits
 
-[Nebelung](https://github.com/Nebelung-Dev) - Owner and Main Developer
+[Jackson Development](https://github.com/JacksonDevelopment) - Owner and Main Developer
 
 [EnderKingJ](https://github.com/EnderKingJ) - Proxy Developer
 
@@ -197,7 +165,7 @@ Nebelung - [Nebelung#1335](https://discord.com/users/887118260963782686)
 
 [Caracal.js](https://github.com/caracal-js) - Proxy Developer
 
-[MikeLime](https://github.com/MikeLime-dev) - Developer
+[Avad3](https://github.com/Avad3) - Developer
 
 [BinBashBanana](https://github.com/BinBashBanana) - Game Library and PyDodge 
 
