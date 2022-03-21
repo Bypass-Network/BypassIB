@@ -40,18 +40,6 @@
 - Installable PWA
 - Build in youtube downloader
 
-## Pages
-
-- `/` Homepage
-- `/1` Arcade
-- `/2` Chatbox
-- `/3` Settings
-- `/4` Terms
-- `/5` Privacy
-- `/6` Documentation
-- `/7` Credits
-- `/8` Support and Contact
-- `/404` 404 Error
 
 ## Setup
 
