@@ -1,3 +1,7 @@
+
+### [SOURCE](https://github.com/FogNetwork/Tsunami) [FogNetwork](https://github.com/FogNetwork)
+
+
 ## Documentation
 
 - [Overview](#overview)
@@ -146,6 +150,8 @@ Try using Palladium or Corrosion. Refreshing the page might help
 ### Credits
 
 [Jackson Development](https://github.com/JacksonDevelopment) - Owner and Main Developer
+
+[Nebelung](https://github.com/Nebelung-Dev) - Owner Of Tsunami And Main Developer
 
 [EnderKingJ](https://github.com/EnderKingJ) - Proxy Developer
 
