@@ -26,13 +26,11 @@
 ### Supported Sites
 
 - google.com
-- discord.com
+- discord.com (might work)
 - youtube.com
 - invidio.us
 - reddit.com
-- wolframalpha.com
 - 1v1.lol
-- schoolcheats.net?
 
 ### Features
 
