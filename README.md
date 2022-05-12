@@ -2,6 +2,10 @@
 ### [SOURCE](https://github.com/FogNetwork/Tsunami) [FogNetwork](https://github.com/FogNetwork)
 
 
+
+[Issues](https://img.shields.io/github/issues/Bypass-Network/BypassIB)
+
+
 ## Documentation
 
 - [Overview](#overview)
