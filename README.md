@@ -1,8 +1,8 @@
 
 [![GitHub license](https://img.shields.io/github/license/Bypass-Network/BypassIB)](https://github.com/Bypass-Network/BypassIB/blob/main/LICENSE)
-![PingPong Uptime (last 30 days)](https://img.shields.io/pingpong/uptime/sp_d6d872fe33f84f7dae90ff9510dc7713)
-![Website](https://img.shields.io/website?down_color=red&down_message=Offline&up_color=lightgreen&up_message=Online&url=https%3A%2F%2Fbypassib.tk)
+![PingPong status](https://img.shields.io/pingpong/status/sp_d6d872fe33f84f7dae90ff9510dc7713)
 ![CircleCI](https://img.shields.io/circleci/build/github/Bypass-Network/BypassIB?token=a3f42851884f77a34df7ccb3b04f59255875da81)
+
 
 
 ## Documentation
