@@ -9,7 +9,7 @@ executors:
           username: $DOCKER_HUB_USER
           password: $DOCKER_HUB_PASSWORD
 jobs:
-  job:
+  Https-Test:
 
     executor: my-custom-executor
     steps:
@@ -20,4 +20,4 @@ jobs:
 workflows:
   Ping-Https-Test:
     jobs:
-      - job
+      - Https-Test
