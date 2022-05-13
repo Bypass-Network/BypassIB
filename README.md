@@ -1,6 +1,7 @@
 
-[![GitHub issues](https://img.shields.io/github/issues/Bypass-Network/BypassIB)](https://github.com/Bypass-Network/BypassIB/issues)
 [![GitHub license](https://img.shields.io/github/license/Bypass-Network/BypassIB)](https://github.com/Bypass-Network/BypassIB/blob/main/LICENSE)
+![PingPong Uptime (last 30 days)](https://img.shields.io/pingpong/uptime/sp_d6d872fe33f84f7dae90ff9510dc7713)
+![Website](https://img.shields.io/website?down_color=red&down_message=Offline&up_color=lightgreen&up_message=Online&url=https%3A%2F%2Fbypassib.tk)
 
 
 ## Documentation
