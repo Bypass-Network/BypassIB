@@ -1,11 +1,6 @@
 
-### [SOURCE](https://github.com/FogNetwork/Tsunami) [FogNetwork](https://github.com/FogNetwork)
-
-
-
 [![GitHub issues](https://img.shields.io/github/issues/Bypass-Network/BypassIB)](https://github.com/Bypass-Network/BypassIB/issues)
 [![GitHub license](https://img.shields.io/github/license/Bypass-Network/BypassIB)](https://github.com/Bypass-Network/BypassIB/blob/main/LICENSE)
-[![Github build](https://img.shields.io/badge/build-passing-brightgreen)
 
 
 ## Documentation
